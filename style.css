@@ -361,11 +361,11 @@ gap:50px;
       justify-content: center;
       align-items: center;
     }
-    .page4 h1{
+    .page4 .sv{
       position: absolute;
       color: #fff;
-      font-size: 60px;
-      margin-top: 50px;
+    
+      margin-top: 80px;
       height: 600px;
       width: 600px;
       border-radius: 50%;
@@ -374,6 +374,9 @@ gap:50px;
       justify-content: center;
       border: 2px solid white;
       
+    }
+    .page4 .sv h1{
+      font-size: 90px;
     }
     
 
